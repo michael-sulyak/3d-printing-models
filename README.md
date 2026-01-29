@@ -9,9 +9,9 @@ single part or simple assembly.
 
 ## Structure
 
-- One project per folder
-- Source CAD files when available
-- Optional preview images and notes
+- One project per folder.
+- Source CAD files when available.
+- Optional preview images and notes.
 
 ---
 

@@ -22,8 +22,7 @@ for example from a 3D printer enclosure or other equipment.
 ## Hardware Used
 
 - **Fan:** Arctic P14 Pro PST White (140 mm).
-- **Control:** PWM speed control.
-  https://aliexpress.ru/item/1005006220888976.html
+- **Control:** [Type C PWM Speed Controller](https://aliexpress.ru/item/1005006220888976.html).
 - **Power:** Any suitable DC power adapter (speed charger).
 
 You may use equivalent fans or controllers if available.
